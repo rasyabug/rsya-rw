@@ -1,0 +1,44 @@
+{
+  "_info": {
+    "version": "1.0",
+    "updated": "2026-08-25",
+    "owner": "Rasya — wa.me/6285126367569",
+    "types": ["1day", "3day", "permanent", "free"]
+  },
+
+  "RASYA-FREE-OPEN": {
+    "type": "free",
+    "expires": "2026-08-26",
+    "device_lock": false,
+    "device_id": "",
+    "max_device": 9999,
+    "note": "Free key 1 hari — no lock, all HP bisa pakai"
+  },
+
+  "RASYA-1D-A1B2C3": {
+    "type": "1day",
+    "expires": "2026-08-26",
+    "device_lock": true,
+    "device_id": "",
+    "max_device": 1,
+    "note": "Key 1 hari — lock 1 device"
+  },
+
+  "RASYA-3D-X9Y8Z7": {
+    "type": "3day",
+    "expires": "2026-08-28",
+    "device_lock": true,
+    "device_id": "",
+    "max_device": 1,
+    "note": "Key 3 hari — lock 1 device"
+  },
+
+  "RASYA-VIP-00001": {
+    "type": "permanent",
+    "expires": "2099-12-31",
+    "device_lock": true,
+    "device_id": "",
+    "max_device": 1,
+    "note": "Key permanent — lock 1 device selamanya"
+  }
+}
