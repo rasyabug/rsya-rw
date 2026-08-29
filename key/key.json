@@ -6,9 +6,9 @@
     "types": ["1day", "3day", "permanent", "free"]
   },
 
-  "RASYA-FREE-OPEN": {
+  "RASYA-FREE-1DAY": {
     "type": "free",
-    "expires": "2026-08-26",
+    "expires": "2026-08-30",
     "device_lock": false,
     "device_id": "",
     "max_device": 9999,
