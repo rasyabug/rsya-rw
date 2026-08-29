@@ -168,7 +168,7 @@
     "note": "Key 7 hari — lock 1 device"
   },
 
-  "RASYA-30D-Q1R2S3": {
+  "RASYA-30D-Q1R2S4": {
     "type": "30day",
     "expires": "2026-09-24",
     "device_lock": true,
