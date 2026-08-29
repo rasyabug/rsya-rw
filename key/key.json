@@ -213,7 +213,7 @@
     "note": "Key 30 hari — lock 1 device"
   },
 
-  "RASYA-VIP-00001": {
+  "RASYA-VIP-00000": {
     "type": "permanent",
     "expires": "2099-12-31",
     "device_lock": true,
