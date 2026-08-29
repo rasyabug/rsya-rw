@@ -15,9 +15,9 @@
     "note": "Free key 1 hari — no lock, all HP bisa pakai"
   },
 
-  "RASYA-1D-A1B2C3": {
-    "type": "1day",
-    "expires": "2026-08-26",
+  "RASYA-RW-PERMANEN": {
+    "type": "permanent",
+    "expires": "2099-08-26",
     "device_lock": true,
     "device_id": "",
     "max_device": 1,
