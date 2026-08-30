@@ -327,7 +327,7 @@
     "device_lock": true,
     "device_id": "",
     "max_device": 1,
-    "revoked": false,
+    "revoked": true,
     "activated_at": "",
     "note": "Key permanent owner — lock 1 device"
   }
