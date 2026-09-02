@@ -24,7 +24,7 @@
     "expires": "2026-09-03",
     "device_lock": false,
     "device_id": "",
-    "revoked": false,
+    "revoked": true,
     "activated_at": "",
     "note": "Key Free"
   }
