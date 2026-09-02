@@ -18,5 +18,14 @@
       "remove_key": "hapus key dari JSON → user auto logout",
       "reset_device": "set device_id: '' → key bisa dipakai HP baru"
     }
+  },
+  "RASYA-FREE-1DAY": {
+    "type": "free",
+    "expires": "2026-09-03",
+    "device_lock": false,
+    "device_id": "",
+    "revoked": false,
+    "activated_at": "",
+    "note": "Key Free"
   }
 }
