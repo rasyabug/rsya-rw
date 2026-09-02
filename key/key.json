@@ -28,15 +28,6 @@
     "activated_at": "",
     "note": "Key Permanent"
   },
-  "RASYA-ROOM-WANGI-28": {
-    "type": "permanent",
-    "expires": "2099-12-31",
-    "device_lock": true,
-    "device_id": "",
-    "revoked": false,
-    "activated_at": "",
-    "note": "Key Permanent"
-  },
   "RASYA": {
     "type": "permanent",
     "expires": "2099-12-31",
