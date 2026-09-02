@@ -18,14 +18,5 @@
       "remove_key": "hapus key dari JSON → user auto logout",
       "reset_device": "set device_id: '' → key bisa dipakai HP baru"
     }
-  },
-  "RASYA": {
-    "type": "permanent",
-    "expires": "2099-12-31",
-    "device_lock": false,
-    "device_id": "",
-    "revoked": false,
-    "activated_at": "",
-    "note": "Key Permanent"
   }
 }
