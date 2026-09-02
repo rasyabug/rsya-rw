@@ -19,13 +19,13 @@
       "reset_device": "set device_id: '' → key bisa dipakai HP baru"
     }
   },
-  "RASYA-FREE-1DAYS": {
-    "type": "free",
-    "expires": "2026-09-03",
-    "device_lock": false,
+  "RASYA-ROOM-WANGI09248": {
+    "type": "permanent",
+    "expires": "2099-12-31",
+    "device_lock": true,
     "device_id": "",
     "revoked": false,
     "activated_at": "",
-    "note": "Key Free - All Device"
+    "note": "permanen lock 1 hp"
   }
 }
