@@ -19,13 +19,13 @@
       "reset_device": "set device_id: '' → key bisa dipakai HP baru"
     }
   },
-  "RASYA-WANGI-020": {
-    "type": "free",
-    "expires": "2026-09-03",
-    "device_lock": false,
+  "RASYA-ANDES": {
+    "type": "permanent",
+    "expires": "2099-12-31",
+    "device_lock": true,
     "device_id": "",
-    "revoked": true,
+    "revoked": false,
     "activated_at": "",
-    "note": "Key Free"
+    "note": "Key Permanent"
   }
 }
