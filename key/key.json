@@ -20,14 +20,14 @@
     }
   },
 
-  "RASYA-ROOM-WANGI09248": {
+  "RASYA-ROOM-FREE1": {
     "type": "permanent",
-    "expires": "2099-12-31",
-    "device_lock": true,
+    "expires": "2026-09-4",
+    "device_lock": false,
     "device_id": "",
     "revoked": false,
     "activated_at": "",
-    "note": "permanen lock 1 hp"
+    "note": "all hp"
   },
 
   "RASYA-RW-PERMANEN001": {
