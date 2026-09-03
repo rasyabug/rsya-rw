@@ -40,9 +40,9 @@
     "note": "all device"
   },
 
-  "RASYA-PERMA-A1B2C3": {
-    "type": "permanen",
-    "expires": "2099-09-03",
+  "RASYA-3DAY-A1B2C3": {
+    "type": "3days",
+    "expires": "2026-09-06",
     "device_lock": false,
     "device_id": "",
     "revoked": false,
