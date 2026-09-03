@@ -40,14 +40,14 @@
     "note": "all device"
   },
 
-  "RASYA-1D-A1B2C3": {
-    "type": "1day",
-    "expires": "2026-09-03",
-    "device_lock": true,
+  "RASYA-PERMA-A1B2C3": {
+    "type": "permanen",
+    "expires": "2099-09-03",
+    "device_lock": false,
     "device_id": "",
     "revoked": false,
     "activated_at": "",
-    "note": "1 hari lock 1 hp"
+    "note": "1 lock device"
   },
 
   "RASYA-1D-D4E5F6": {
