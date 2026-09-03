@@ -21,7 +21,7 @@
   },
 
   "RASYA-ROOM-FREE1": {
-    "type": "permanent",
+    "type": "FREE 1 DAYS",
     "expires": "2026-09-4",
     "device_lock": false,
     "device_id": "",
