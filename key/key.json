@@ -20,12 +20,12 @@
     }
   },
 
-  "RASYA-ROOM-FREE1": {
+  "RASYA-FREE-1DAY": {
     "type": "FREE 1 DAYS",
     "expires": "2026-09-4",
     "device_lock": false,
     "device_id": "",
-    "revoked": true,
+    "revoked": false,
     "activated_at": "",
     "note": "all hp"
   },
