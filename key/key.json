@@ -2,7 +2,7 @@
   "_info": {
     "version": "2.0",
     "updated": "2026-09-06",
-    "owner": "Rasya â wa.me/6285126367569",
+    "owner": "Rasya Ã¢ÂÂ wa.me/6285126367569",
     "types": [
       "1day",
       "3day",
@@ -12,11 +12,11 @@
       "free"
     ],
     "control": {
-      "revoke_key": "set revoked: true  â user langsung kick",
-      "kick_device": "ganti device_id jadi string lain â user logout",
-      "expire_now": "set expires ke tanggal kemarin â user expired",
-      "remove_key": "hapus key dari JSON â user auto logout",
-      "reset_device": "set device_id: '' â key bisa dipakai HP baru"
+      "revoke_key": "set revoked: true  Ã¢ÂÂ user langsung kick",
+      "kick_device": "ganti device_id jadi string lain Ã¢ÂÂ user logout",
+      "expire_now": "set expires ke tanggal kemarin Ã¢ÂÂ user expired",
+      "remove_key": "hapus key dari JSON Ã¢ÂÂ user auto logout",
+      "reset_device": "set device_id: '' Ã¢ÂÂ key bisa dipakai HP baru"
     }
   },
   "RASYA-FREE-1DAY": {
@@ -309,7 +309,7 @@
   },
   "RASYA-FRE-1DAY-89292": {
     "type": "1day",
-    "expires": "2026-09-07",
+    "expires": "2026-09-05",
     "device_lock": false,
     "device_id": "",
     "revoked": false,
