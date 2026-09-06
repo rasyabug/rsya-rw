@@ -60,14 +60,14 @@
     "note": "3 hari lock 1 hp"
   },
 
-  "RASYA-1D-G7H8I9": {
-    "type": "1day",
+  "RASYA-3D-G7H8I9": {
+    "type": "3day",
     "expires": "2026-09-03",
     "device_lock": true,
     "device_id": "",
     "revoked": false,
     "activated_at": "",
-    "note": "1 hari lock 1 hp"
+    "note": "3 hari lock 1 hp"
   },
 
   "RASYA-1D-J1K2L3": {
