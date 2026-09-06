@@ -1,8 +1,8 @@
 {
   "_info": {
     "version": "2.0",
-    "updated": "2026-09-02",
-    "owner": "Rasya — wa.me/6285126367569",
+    "updated": "2026-09-06",
+    "owner": "Rasya â wa.me/6285126367569",
     "types": [
       "1day",
       "3day",
@@ -12,14 +12,13 @@
       "free"
     ],
     "control": {
-      "revoke_key": "set revoked: true  → user langsung kick",
-      "kick_device": "ganti device_id jadi string lain → user logout",
-      "expire_now": "set expires ke tanggal kemarin → user expired",
-      "remove_key": "hapus key dari JSON → user auto logout",
-      "reset_device": "set device_id: '' → key bisa dipakai HP baru"
+      "revoke_key": "set revoked: true  â user langsung kick",
+      "kick_device": "ganti device_id jadi string lain â user logout",
+      "expire_now": "set expires ke tanggal kemarin â user expired",
+      "remove_key": "hapus key dari JSON â user auto logout",
+      "reset_device": "set device_id: '' â key bisa dipakai HP baru"
     }
   },
-
   "RASYA-FREE-1DAY": {
     "type": "FREE 1 DAYS",
     "expires": "2026-09-4",
@@ -29,7 +28,6 @@
     "activated_at": "",
     "note": "all hp"
   },
-
   "RASYA-RW-PERMANEN001": {
     "type": "permanen",
     "expires": "2099-12-03",
@@ -39,7 +37,6 @@
     "activated_at": "",
     "note": "all device"
   },
-
   "RASYA-3DAY-A1B2C3": {
     "type": "3days",
     "expires": "2026-09-06",
@@ -49,7 +46,6 @@
     "activated_at": "",
     "note": "1 lock device"
   },
-
   "RASYA-3D-D4E5F6": {
     "type": "3day",
     "expires": "2026-09-09",
@@ -59,7 +55,6 @@
     "activated_at": "",
     "note": "3 hari lock 1 hp"
   },
-
   "RASYA-3D-G7H8I9": {
     "type": "3day",
     "expires": "2026-09-03",
@@ -69,7 +64,6 @@
     "activated_at": "",
     "note": "3 hari lock 1 hp"
   },
-
   "RASYA-1D-J1K2L3": {
     "type": "1day",
     "expires": "2026-09-03",
@@ -79,7 +73,6 @@
     "activated_at": "",
     "note": "1 hari lock 1 hp"
   },
-
   "RASYA-1D-M4N5O6": {
     "type": "1day",
     "expires": "2026-09-03",
@@ -89,7 +82,6 @@
     "activated_at": "",
     "note": "1 hari lock 1 hp"
   },
-
   "RASYA-3D-P7Q8R9": {
     "type": "3day",
     "expires": "2026-09-05",
@@ -99,7 +91,6 @@
     "activated_at": "",
     "note": "3 hari lock 1 hp"
   },
-
   "RASYA-3D-S1T2U3": {
     "type": "3day",
     "expires": "2026-09-05",
@@ -109,7 +100,6 @@
     "activated_at": "",
     "note": "3 hari lock 1 hp"
   },
-
   "RASYA-3D-V4W5X6": {
     "type": "3day",
     "expires": "2026-09-05",
@@ -119,7 +109,6 @@
     "activated_at": "",
     "note": "3 hari lock 1 hp"
   },
-
   "RASYA-3D-Y7Z8A1": {
     "type": "3day",
     "expires": "2026-09-05",
@@ -129,7 +118,6 @@
     "activated_at": "",
     "note": "3 hari lock 1 hp"
   },
-
   "RASYA-3D-B2C3D4": {
     "type": "3day",
     "expires": "2026-09-05",
@@ -139,7 +127,6 @@
     "activated_at": "",
     "note": "3 hari lock 1 hp"
   },
-
   "RASYA-7D-E5F6G7": {
     "type": "7day",
     "expires": "2026-09-09",
@@ -149,7 +136,6 @@
     "activated_at": "",
     "note": "7 hari lock 1 hp"
   },
-
   "RASYA-7D-H8I9J1": {
     "type": "7day",
     "expires": "2026-09-09",
@@ -159,7 +145,6 @@
     "activated_at": "",
     "note": "7 hari lock 1 hp"
   },
-
   "RASYA-7D-K2L3M4": {
     "type": "7day",
     "expires": "2026-09-09",
@@ -169,7 +154,6 @@
     "activated_at": "",
     "note": "7 hari lock 1 hp"
   },
-
   "RASYA-7D-N5O6P7": {
     "type": "7day",
     "expires": "2026-09-09",
@@ -179,7 +163,6 @@
     "activated_at": "",
     "note": "7 hari lock 1 hp"
   },
-
   "RASYA-7D-Q8R9S1": {
     "type": "7day",
     "expires": "2026-09-09",
@@ -189,7 +172,6 @@
     "activated_at": "",
     "note": "7 hari lock 1 hp"
   },
-
   "RASYA-30D-T2U3V4": {
     "type": "30day",
     "expires": "2026-10-02",
@@ -199,7 +181,6 @@
     "activated_at": "",
     "note": "30 hari lock 1 hp"
   },
-
   "RASYA-30D-W5X6Y7": {
     "type": "30day",
     "expires": "2026-10-02",
@@ -209,7 +190,6 @@
     "activated_at": "",
     "note": "30 hari lock 1 hp"
   },
-
   "RASYA-30D-Z8A9B1": {
     "type": "30day",
     "expires": "2026-10-02",
@@ -219,7 +199,6 @@
     "activated_at": "",
     "note": "30 hari lock 1 hp"
   },
-
   "RASYA-30D-C2D3E4": {
     "type": "30day",
     "expires": "2026-10-02",
@@ -229,7 +208,6 @@
     "activated_at": "",
     "note": "30 hari lock 1 hp"
   },
-
   "RASYA-30D-F5G6H7": {
     "type": "30day",
     "expires": "2026-10-02",
@@ -239,7 +217,6 @@
     "activated_at": "",
     "note": "30 hari lock 1 hp"
   },
-
   "RASYA-PERM-I8J9K1": {
     "type": "permanent",
     "expires": "2099-12-31",
@@ -249,7 +226,6 @@
     "activated_at": "",
     "note": "permanen lock 1 hp"
   },
-
   "RASYA-PERM-L2M3N4": {
     "type": "permanent",
     "expires": "2099-12-31",
@@ -259,7 +235,6 @@
     "activated_at": "",
     "note": "permanen lock 1 hp"
   },
-
   "RASYA-PERM-O5P6Q7": {
     "type": "permanent",
     "expires": "2099-12-31",
@@ -269,7 +244,6 @@
     "activated_at": "",
     "note": "permanen lock 1 hp"
   },
-
   "RASYA-PERM-R8S9T1": {
     "type": "permanent",
     "expires": "2099-12-31",
@@ -279,7 +253,6 @@
     "activated_at": "",
     "note": "permanen lock 1 hp"
   },
-
   "RASYA-PERM-U2V3W4": {
     "type": "permanent",
     "expires": "2099-12-31",
@@ -289,7 +262,6 @@
     "activated_at": "",
     "note": "permanen lock 1 hp"
   },
-
   "RASYA-FREE-X5Y6Z7": {
     "type": "free",
     "expires": "2026-09-30",
@@ -299,7 +271,6 @@
     "activated_at": "",
     "note": "all device"
   },
-
   "RASYA-FREE-A8B9C1": {
     "type": "free",
     "expires": "2026-09-30",
@@ -309,7 +280,6 @@
     "activated_at": "",
     "note": "all device"
   },
-
   "RASYA-FREE-D2E3F4": {
     "type": "free",
     "expires": "2026-09-30",
@@ -319,7 +289,6 @@
     "activated_at": "",
     "note": "all device"
   },
-
   "RASYA-FREE-G5H6I7": {
     "type": "free",
     "expires": "2026-09-30",
@@ -329,7 +298,6 @@
     "activated_at": "",
     "note": "all device"
   },
-
   "RASYA-FREE-J8K9L1": {
     "type": "free",
     "expires": "2026-09-30",
@@ -338,5 +306,14 @@
     "revoked": false,
     "activated_at": "",
     "note": "all device"
+  },
+  "RASYA-FRE-1DAY-89292": {
+    "type": "1day",
+    "expires": "2026-09-07",
+    "device_lock": false,
+    "device_id": "",
+    "revoked": false,
+    "activated_at": "",
+    "note": "jangan lupa buy kampang"
   }
 }
