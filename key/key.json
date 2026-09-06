@@ -2,7 +2,7 @@
   "_info": {
     "version": "2.0",
     "updated": "2026-09-06",
-    "owner": "Rasya ÃÂ¢ÃÂÃÂ wa.me/6285126367569",
+    "owner": "Rasya ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ wa.me/6285126367569",
     "types": [
       "1day",
       "3day",
@@ -12,11 +12,11 @@
       "free"
     ],
     "control": {
-      "revoke_key": "set revoked: true  ÃÂ¢ÃÂÃÂ user langsung kick",
-      "kick_device": "ganti device_id jadi string lain ÃÂ¢ÃÂÃÂ user logout",
-      "expire_now": "set expires ke tanggal kemarin ÃÂ¢ÃÂÃÂ user expired",
-      "remove_key": "hapus key dari JSON ÃÂ¢ÃÂÃÂ user auto logout",
-      "reset_device": "set device_id: '' ÃÂ¢ÃÂÃÂ key bisa dipakai HP baru"
+      "revoke_key": "set revoked: true  ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ user langsung kick",
+      "kick_device": "ganti device_id jadi string lain ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ user logout",
+      "expire_now": "set expires ke tanggal kemarin ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ user expired",
+      "remove_key": "hapus key dari JSON ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ user auto logout",
+      "reset_device": "set device_id: '' ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ key bisa dipakai HP baru"
     }
   },
   "RASYA-FREE-1DAY": {
@@ -312,7 +312,7 @@
     "expires": "2026-09-05",
     "device_lock": false,
     "device_id": "",
-    "revoked": false,
+    "revoked": true,
     "activated_at": "",
     "note": "jangan lupa buy kampang"
   }
