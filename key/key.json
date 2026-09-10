@@ -14,7 +14,7 @@
   "RSY-RW-PERMANEN-VVI-829": {
     "type": "permanent",
     "expires": "2099-09-13",
-    "device_id": "DENIED!KEY SUDAH ADA DI HP LAIN",
+    "device_id": "",
     "revoked": false,
     "device_lock": true
   },
