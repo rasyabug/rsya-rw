@@ -1,9 +1,9 @@
 [
   {
-    "key": "RSY-FREE-001",
-    "type": "free",
-    "expires": "2026-09-13",
-    "device_id": "",
+    "key": "RSY-PERMA-0873",
+    "type": "VIP",
+    "expires": "2099-09-13",
+    "device_id": "sudah ada device lain",
     "revoked": false
   },
   {
