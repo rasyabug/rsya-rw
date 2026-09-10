@@ -1,86 +1,91 @@
-[
-  {
-    "key": "RSY-PERMA-0873",
-    "type": "VIP",
-    "expires": "2099-09-13",
-    "device_id": "sudah ada device lain",
-    "revoked": false
+{
+  "_info": {
+    "version": "1.0",
+    "updated": "2026-09-10",
+    "owner": "Rasya"
   },
-  {
-    "key": "RSY-1DAY-001",
+  "RASYA-RW-OWNER": {
+    "type": "permanent",
+    "expires": "2099-12-31",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-PERMA-0873": {
+    "type": "permanent",
+    "expires": "2099-09-13",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-1DAY-001": {
     "type": "1day",
     "expires": "2026-09-11",
     "device_id": "",
-    "revoked": false
+    "revoked": false,
+    "device_lock": true
   },
-  {
-    "key": "RSY-3DAY-001",
+  "RSY-3DAY-001": {
     "type": "3day",
     "expires": "2026-09-13",
     "device_id": "",
-    "revoked": false
+    "revoked": false,
+    "device_lock": true
   },
-  {
-    "key": "RSY-7DAY-001",
+  "RSY-7DAY-001": {
     "type": "7day",
     "expires": "2026-09-17",
     "device_id": "",
-    "revoked": false
+    "revoked": false,
+    "device_lock": true
   },
-  {
-    "key": "RSY-30DAY-001",
+  "RSY-30DAY-001": {
     "type": "30day",
     "expires": "2026-10-10",
     "device_id": "",
-    "revoked": false
+    "revoked": false,
+    "device_lock": true
   },
-  {
-    "key": "RSY-30DAY-002",
+  "RSY-30DAY-002": {
     "type": "30day",
     "expires": "2026-10-10",
     "device_id": "",
-    "revoked": false
+    "revoked": false,
+    "device_lock": true
   },
-  {
-    "key": "RSY-30DAY-003",
+  "RSY-30DAY-003": {
     "type": "30day",
     "expires": "2026-10-15",
     "device_id": "",
-    "revoked": false
+    "revoked": false,
+    "device_lock": true
   },
-  {
-    "key": "RSY-VIP-001",
+  "RSY-VIP-001": {
     "type": "permanent",
     "expires": "2099-12-31",
     "device_id": "",
-    "revoked": false
+    "revoked": false,
+    "device_lock": true
   },
-  {
-    "key": "RSY-VIP-002",
+  "RSY-VIP-002": {
     "type": "permanent",
     "expires": "2099-12-31",
     "device_id": "",
-    "revoked": false
+    "revoked": false,
+    "device_lock": true
   },
-  {
-    "key": "RSY-TEST-LOCKED",
+  "RSY-TEST-LOCKED": {
     "type": "30day",
     "expires": "2026-10-10",
     "device_id": "CONTOH-DEVICE-SUDAH-TERKUNCI",
-    "revoked": false
+    "revoked": false,
+    "device_lock": true
   },
-  {
-    "key": "RSY-REVOKED-001",
+  "RSY-REVOKED-001": {
     "type": "30day",
     "expires": "2026-12-31",
     "device_id": "",
-    "revoked": true
-  },
-  {
-    "key": "RASYA-RW-OWNER",
-    "type": "permanent",
-    "expires": "2099-12-31",
-    "device_id": "",
-    "revoked": false
+    "revoked": true,
+    "device_lock": true
   }
-]
+}
