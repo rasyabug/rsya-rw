@@ -1,0 +1,86 @@
+[
+  {
+    "key": "RSY-FREE-001",
+    "type": "free",
+    "expires": "2026-09-13",
+    "device_id": "",
+    "revoked": false
+  },
+  {
+    "key": "RSY-1DAY-001",
+    "type": "1day",
+    "expires": "2026-09-11",
+    "device_id": "",
+    "revoked": false
+  },
+  {
+    "key": "RSY-3DAY-001",
+    "type": "3day",
+    "expires": "2026-09-13",
+    "device_id": "",
+    "revoked": false
+  },
+  {
+    "key": "RSY-7DAY-001",
+    "type": "7day",
+    "expires": "2026-09-17",
+    "device_id": "",
+    "revoked": false
+  },
+  {
+    "key": "RSY-30DAY-001",
+    "type": "30day",
+    "expires": "2026-10-10",
+    "device_id": "",
+    "revoked": false
+  },
+  {
+    "key": "RSY-30DAY-002",
+    "type": "30day",
+    "expires": "2026-10-10",
+    "device_id": "",
+    "revoked": false
+  },
+  {
+    "key": "RSY-30DAY-003",
+    "type": "30day",
+    "expires": "2026-10-15",
+    "device_id": "",
+    "revoked": false
+  },
+  {
+    "key": "RSY-VIP-001",
+    "type": "permanent",
+    "expires": "2099-12-31",
+    "device_id": "",
+    "revoked": false
+  },
+  {
+    "key": "RSY-VIP-002",
+    "type": "permanent",
+    "expires": "2099-12-31",
+    "device_id": "",
+    "revoked": false
+  },
+  {
+    "key": "RSY-TEST-LOCKED",
+    "type": "30day",
+    "expires": "2026-10-10",
+    "device_id": "CONTOH-DEVICE-SUDAH-TERKUNCI",
+    "revoked": false
+  },
+  {
+    "key": "RSY-REVOKED-001",
+    "type": "30day",
+    "expires": "2026-12-31",
+    "device_id": "",
+    "revoked": true
+  },
+  {
+    "key": "RASYA-RW-OWNER",
+    "type": "permanent",
+    "expires": "2099-12-31",
+    "device_id": "",
+    "revoked": false
+  }
+]
