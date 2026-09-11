@@ -18,9 +18,9 @@
     "revoked": false,
     "device_lock": true
   },
-  "RSY-1DAY-001": {
-    "type": "1day",
-    "expires": "2026-09-11",
+  "RSY-3D-XYISJ": {
+    "type": "3day",
+    "expires": "2026-09-14",
     "device_id": "",
     "revoked": false,
     "device_lock": true
