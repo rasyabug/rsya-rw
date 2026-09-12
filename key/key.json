@@ -32,9 +32,9 @@
     "revoked": false,
     "device_lock": true
   },
-  "RSY-7DAY-001": {
-    "type": "7day",
-    "expires": "2026-09-17",
+  "RASYARW-PERM-XMSOA": {
+    "type": "permanent",
+    "expires": "2089-09-17",
     "device_id": "",
     "revoked": false,
     "device_lock": true
