@@ -39,9 +39,9 @@
     "revoked": false,
     "device_lock": true
   },
-  "RSY-30DAY-001": {
-    "type": "30day",
-    "expires": "2026-10-10",
+  "RW-RASYA-3DAYS-JSJW": {
+    "type": "3day",
+    "expires": "2026-09-15",
     "device_id": "",
     "revoked": false,
     "device_lock": true
