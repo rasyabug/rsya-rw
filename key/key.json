@@ -67,7 +67,7 @@
     "revoked": false,
     "device_lock": true
   },
-  "RSY-VIP-002": {
+  "RASYA-RWP-MNEN": {
     "type": "permanent",
     "expires": "2099-12-31",
     "device_id": "",
