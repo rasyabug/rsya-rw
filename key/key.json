@@ -74,10 +74,10 @@
     "revoked": false,
     "device_lock": true
   },
-  "RSY-TEST-LOCKED": {
+  "RSYA-RWV-BSUWI": {
     "type": "30day",
-    "expires": "2026-10-10",
-    "device_id": "CONTOH-DEVICE-SUDAH-TERKUNCI",
+    "expires": "2027-10-10",
+    "device_id": "",
     "revoked": false,
     "device_lock": true
   },
