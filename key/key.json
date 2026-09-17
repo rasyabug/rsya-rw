@@ -18,9 +18,9 @@
     "revoked": false,
     "device_lock": true
   },
-  "RSY-3D-XYISJ": {
-    "type": "3day",
-    "expires": "2026-09-14",
+  "RW-RSY-OERMN-JSJS": {
+    "type": "permanen",
+    "expires": "2098-09-14",
     "device_id": "",
     "revoked": false,
     "device_lock": true
