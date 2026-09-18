@@ -1,7 +1,7 @@
 {
   "_info": {
-    "version": "1.0",
-    "updated": "2026-09-10",
+    "version": "1.1",
+    "updated": "2026-09-18",
     "owner": "Rasya"
   },
   "RASYA-RW-OWNER": {
@@ -11,51 +11,23 @@
     "revoked": false,
     "device_lock": true
   },
-  "RSY-RW-PERMANN-RWSY": {
+  "RSY-RW-PERMANN-RWY": {
     "type": "permanent",
     "expires": "2099-09-13",
     "device_id": "",
     "revoked": false,
     "device_lock": true
   },
-  "RW-RSY-OERMN-JSJS": {
-    "type": "permanen",
+  "RW-RSY-OEMN-JSJS": {
+    "type": "permanent",
     "expires": "2098-09-14",
     "device_id": "",
     "revoked": false,
     "device_lock": true
   },
-  "RSY-3DAY-001": {
-    "type": "3day",
-    "expires": "2026-09-13",
-    "device_id": "",
-    "revoked": false,
-    "device_lock": true
-  },
-  "RASYARW-PERM-XMSOA": {
+  "RASYARW-PERM-XMSA": {
     "type": "permanent",
     "expires": "2089-09-17",
-    "device_id": "",
-    "revoked": false,
-    "device_lock": true
-  },
-  "RW-RASYA-3DAYS-JSJW": {
-    "type": "3day",
-    "expires": "2026-09-15",
-    "device_id": "",
-    "revoked": false,
-    "device_lock": true
-  },
-  "RSY-30DAY-002": {
-    "type": "30day",
-    "expires": "2026-10-10",
-    "device_id": "",
-    "revoked": false,
-    "device_lock": true
-  },
-  "RSY-30DAY-003": {
-    "type": "30day",
-    "expires": "2026-10-15",
     "device_id": "",
     "revoked": false,
     "device_lock": true
@@ -67,9 +39,205 @@
     "revoked": false,
     "device_lock": true
   },
-  "RASYA-RWP-MNEN": {
+  "RASYA-RWP-MEN": {
     "type": "permanent",
     "expires": "2099-12-31",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-VIP-002": {
+    "type": "permanent",
+    "expires": "2099-12-31",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-VIP-003": {
+    "type": "permanent",
+    "expires": "2099-12-31",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-OWNER-BACKUP": {
+    "type": "permanent",
+    "expires": "2099-12-31",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": false
+  },
+  "RSY-PERM-ALPHA01": {
+    "type": "permanent",
+    "expires": "2099-06-30",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-PERM-BETA02": {
+    "type": "permanent",
+    "expires": "2099-06-30",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-PERM-GAMMA03": {
+    "type": "permanent",
+    "expires": "2099-06-30",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-PERM-DELTA04": {
+    "type": "permanent",
+    "expires": "2099-06-30",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-PERM-OMEGA05": {
+    "type": "permanent",
+    "expires": "2099-06-30",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-1DAY-001": {
+    "type": "1day",
+    "expires": "2026-09-19",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-1DAY-002": {
+    "type": "1day",
+    "expires": "2026-09-20",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-1DAY-003": {
+    "type": "1day",
+    "expires": "2026-09-21",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-3DAY-001": {
+    "type": "3day",
+    "expires": "2026-09-21",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-3DAY-002": {
+    "type": "3day",
+    "expires": "2026-09-22",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-3DAY-003": {
+    "type": "3day",
+    "expires": "2026-09-23",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RW-RASYA-3DAYS-JSJW": {
+    "type": "3day",
+    "expires": "2026-09-21",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-7DAY-001": {
+    "type": "7day",
+    "expires": "2026-09-25",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-7DAY-002": {
+    "type": "7day",
+    "expires": "2026-09-26",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-7DAY-003": {
+    "type": "7day",
+    "expires": "2026-09-27",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-7DAY-004": {
+    "type": "7day",
+    "expires": "2026-09-28",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-7DAY-005": {
+    "type": "7day",
+    "expires": "2026-09-29",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-30DAY-001": {
+    "type": "30day",
+    "expires": "2026-10-18",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-30DAY-002": {
+    "type": "30day",
+    "expires": "2026-10-20",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-30DAY-003": {
+    "type": "30day",
+    "expires": "2026-10-25",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-30DAY-004": {
+    "type": "30day",
+    "expires": "2026-10-30",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-30DAY-005": {
+    "type": "30day",
+    "expires": "2026-11-05",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-30DAY-006": {
+    "type": "30day",
+    "expires": "2026-11-10",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-30DAY-007": {
+    "type": "30day",
+    "expires": "2026-11-15",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-30DAY-008": {
+    "type": "30day",
+    "expires": "2026-11-20",
     "device_id": "",
     "revoked": false,
     "device_lock": true
@@ -81,9 +249,114 @@
     "revoked": false,
     "device_lock": true
   },
+  "RSY-90DAY-001": {
+    "type": "90day",
+    "expires": "2026-12-18",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-90DAY-002": {
+    "type": "90day",
+    "expires": "2026-12-31",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-90DAY-003": {
+    "type": "90day",
+    "expires": "2027-01-15",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-TRIAL-A01": {
+    "type": "1day",
+    "expires": "2026-09-19",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-TRIAL-A02": {
+    "type": "1day",
+    "expires": "2026-09-19",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-TRIAL-B01": {
+    "type": "3day",
+    "expires": "2026-09-21",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-TRIAL-B02": {
+    "type": "3day",
+    "expires": "2026-09-21",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-MEMBER-M01": {
+    "type": "30day",
+    "expires": "2026-10-18",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-MEMBER-M02": {
+    "type": "30day",
+    "expires": "2026-10-18",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-MEMBER-M03": {
+    "type": "30day",
+    "expires": "2026-10-18",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-MEMBER-M04": {
+    "type": "30day",
+    "expires": "2026-10-25",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-MEMBER-M05": {
+    "type": "30day",
+    "expires": "2026-10-25",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "RSY-UNLOCK-ALL01": {
+    "type": "permanent",
+    "expires": "2099-12-31",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": false
+  },
+  "RSY-UNLOCK-ALL02": {
+    "type": "permanent",
+    "expires": "2099-12-31",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": false
+  },
   "RSY-REVOKED-001": {
     "type": "30day",
     "expires": "2026-12-31",
+    "device_id": "",
+    "revoked": true,
+    "device_lock": true
+  },
+  "RSY-REVOKED-002": {
+    "type": "7day",
+    "expires": "2026-09-25",
     "device_id": "",
     "revoked": true,
     "device_lock": true
