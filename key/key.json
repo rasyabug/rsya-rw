@@ -32,9 +32,9 @@
     "revoked": false,
     "device_lock": true
   },
-  "RSY-VIP-001": {
-    "type": "permanent",
-    "expires": "2099-12-31",
+  "RSY-RW3D-SJJWI": {
+    "type": "3D",
+    "expires": "2026-09-20",
     "device_id": "",
     "revoked": false,
     "device_lock": true
