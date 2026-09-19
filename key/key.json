@@ -46,9 +46,9 @@
     "revoked": false,
     "device_lock": true
   },
-  "RSY-VIP-002": {
-    "type": "permanent",
-    "expires": "2099-12-31",
+  "RSYA-RW-31DY-NDJA": {
+    "type": "1D",
+    "expires": "2026-09-20",
     "device_id": "",
     "revoked": false,
     "device_lock": true
