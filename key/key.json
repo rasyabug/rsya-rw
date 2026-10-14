@@ -20,7 +20,7 @@
   },
   "RW-RSY-3DIAS-UWIN": {
     "type": "3D",
-    "expires": "2026-09-17",
+    "expires": "2026-10-17",
     "device_id": "",
     "revoked": false,
     "device_lock": true
