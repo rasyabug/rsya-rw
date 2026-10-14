@@ -18,9 +18,9 @@
     "revoked": false,
     "device_lock": true
   },
-  "RW-RSY-OEMN-JSJS": {
-    "type": "permanent",
-    "expires": "2098-09-14",
+  "RW-RSY-3DIAS-UWIN": {
+    "type": "3D",
+    "expires": "2026-09-17",
     "device_id": "",
     "revoked": false,
     "device_lock": true
