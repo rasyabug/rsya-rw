@@ -18,10 +18,10 @@
     "revoked": false,
     "device_lock": true
   },
-  "RW-RSY-3DIAS-UWIN": {
+  "RW-RSY-3DIAS-UWINI": {
     "type": "3D",
     "expires": "2026-10-17",
-    "device_id": "",
+    "device_id": "lock",
     "revoked": false,
     "device_lock": true
   },
