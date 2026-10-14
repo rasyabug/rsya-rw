@@ -18,7 +18,7 @@
     "revoked": false,
     "device_lock": true
   },
-  "RW-RSY-3DIAS-UWINI": {
+  "RASYA-RA-3DAY": {
     "type": "3D",
     "expires": "2026-10-17",
     "device_id": "",
