@@ -11,9 +11,9 @@
     "revoked": false,
     "device_lock": true
   },
-  "RSY-RW-PERMANN-RWY": {
-    "type": "permanent",
-    "expires": "2099-09-13",
+  "RSY-RW-3HARIXU-DJIW": {
+    "type": "3D",
+    "expires": "2026-10-17",
     "device_id": "",
     "revoked": false,
     "device_lock": true
