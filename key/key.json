@@ -18,9 +18,9 @@
     "revoked": false,
     "device_lock": true
   },
-  "RASYA-RA-3DAY": {
+  "RSY-RW-TIGA-DAYS": {
     "type": "3D",
-    "expires": "2026-10-17",
+    "expires": "2026-10-19",
     "device_id": "",
     "revoked": false,
     "device_lock": true
