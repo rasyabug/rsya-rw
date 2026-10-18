@@ -25,9 +25,9 @@
     "revoked": false,
     "device_lock": true
   },
-  "RASYARW-PERM-XMSA": {
+  "RASYARW-PXNS-3DIAS": {
     "type": "permanent",
-    "expires": "2089-09-17",
+    "expires": "2089-10-20",
     "device_id": "",
     "revoked": false,
     "device_lock": true
