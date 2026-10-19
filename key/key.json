@@ -18,9 +18,9 @@
     "revoked": false,
     "device_lock": true
   },
-  "RSY-RW-TIGA-DAYS": {
-    "type": "3D",
-    "expires": "2026-10-19",
+  "RSYA-RW-PERKANE-HSWI": {
+    "type": "PERMANEN",
+    "expires": "2086-10-19",
     "device_id": "",
     "revoked": false,
     "device_lock": true
