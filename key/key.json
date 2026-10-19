@@ -13,7 +13,7 @@
   },
   "RSY-RW-3HXU-DJIHN": {
     "type": "permanen",
-    "expires": "2026-10-17",
+    "expires": "2099-10-17",
     "device_id": "",
     "revoked": false,
     "device_lock": true
